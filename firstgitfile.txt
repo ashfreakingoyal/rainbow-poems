@@ -2,4 +2,7 @@ rainbow has seven colors in it.
 violet
 indigo
 blue
+green
 yellow
+orange
+red
